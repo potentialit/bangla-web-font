@@ -1,6 +1,6 @@
 @font-face {
   font-family:'Mukti';
-  font-weight:normal;
-  font-style:normal;
   font-display:swap;
+  font-weight:100 900;
+  font-style:normal;
   src:url('Mukti.woff2') format('woff2');
